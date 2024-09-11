@@ -6,8 +6,20 @@ Hello! I'm Zhongyu Zhou, a graduate student in Geographic Information Science at
 ## Education
 - **Master of Arts in Geographic Information Science** (Expected May 2025) - University at Buffalo, SUNY
   - Cumulative GPA: 3.73/4.0
+  - Relevant Coursework:
+    - Geographic Information Systems
+    - Remote Sensing
+    - GIS and Machine Learning
+    - GIS for Environmental Modeling
+    - Dynamic Modeling
+
 - **Bachelor of Science in Geographic Information Science** (June 2021) - China University of Petroleum, Qingdao, China
   - Cumulative GPA: 3.3/4.0
+  - Relevant Coursework:
+    - Theory of Geographical Information System
+    - Spatial Databases
+    - GIS Spatial Analysis
+    - Digital Topographic Surveying
 
 ## Research Interests
 - **GIS Spatial Data Analysis**: Focusing on geospatial network analysis, spatial accessibility, and disparities.
