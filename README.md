@@ -15,9 +15,19 @@ Hello! I'm Zhongyu Zhou, a graduate student in Geographic Information Science at
 - **Transportation**: Analyzing and improving transportation systems for enhanced accessibility through ABM and GIS tools.
 
 ## Research & Projects
-- **Simulating Evacuation and Engagement in Airport Security Scenarios**: Developed an Android-based system for enhancing field surveying and mapping using KQGIS.
-- **Analysis of Transportation Accessibility for Disabled Persons on UB North Campus**: Employed GIS and network analysis to assess and improve campus transportation services for disabled individuals.
-- **Selection of Prime Fishing Spots for Smallmouth Bass in Lake Erie**: Applied logistic regression to create predictive models for smallmouth bass habitats based on environmental factors.
+- **Simulating Airport Emergency Evacuation in Response to a Gunman Threat**:
+  - Developed an Agent-Based Model (ABM) to simulate emergency evacuation scenarios at an airport. The model incorporates GIS data to manage the spatial elements of the airport environment, focusing on optimizing evacuation routes and improving safety protocols during high-risk situations. Currently under review for publication.
+
+- **Development of a Mobile Surveying Platform Application Using KQGIS**:
+  - Engineered an Android-based application using KQGIS to enhance field surveying and mapping capabilities. This project involved programming map visualization, mobile positioning, and layer editing features to improve data collection accuracy and efficiency.
+
+- **Analysis of Transportation Accessibility for Disabled Persons on UB North Campus**:
+  - Employed GIS and network analysis to assess and improve campus transportation services for disabled individuals.
+
+- **Selection of Prime Fishing Spots for Smallmouth Bass in Lake Erie**:
+  - Applied logistic regression to create predictive models for smallmouth bass habitats based on environmental factors.
+
+
 
 ## Technical Skills
 - **GIS Tools**: Proficient in ArcGIS
