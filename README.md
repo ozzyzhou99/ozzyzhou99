@@ -7,7 +7,7 @@ I am a Geographic Information Science (GIS) master's student at the University a
 - **Master of Arts in Geographic Information Science** - University at Buffalo, SUNY (Expected 2025)
   - Engaged in cutting-edge research and application development in GIS, with a focus on harnessing data science tools for environmental and social challenges.
   - **GPA**: 3.73/5.0
-  - **Relevant Coursework**: Dynamic Modeling, GIS for Environmental Modeling, GIS and Machine Learning.
+  - **Relevant Coursework**: Dynamic Modeling, Agent-based modeling and GIS, GIS for Environmental Modeling, GIS and Machine Learning.
   
 - **Bachelor of Science in Geographic Information Science** - China University of Petroleum (Graduated 2021)
   - Cultivated expertise in spatial data manipulation and analysis, preparing me for advanced studies and research.
@@ -33,13 +33,12 @@ I am a Geographic Information Science (GIS) master's student at the University a
   - Applied logistic regression and spatial data analysis to identify and predict optimal habitats for smallmouth bass, aiding in conservation efforts and resource management.
 
 ## 💻 Technical Skills
-- **GIS Tools**: Proficient in ArcGIS, QGIS
+- **GIS Tools**: Proficient in ArcGIS
 - **Programming**: Proficient in Python, R; previously proficient in Java, C#
 - **Software Development**: Experienced with Android Studio, ENVI, and Erdas for remote sensing applications.
 
 ## 📫 How to Reach Me
 - **Email**: [zzhou47@buffalo.edu](mailto:zzhou47@buffalo.edu)
-- **LinkedIn**: [Insert LinkedIn Profile URL here](https://www.linkedin.com)
 
 ---
 
