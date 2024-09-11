@@ -16,7 +16,7 @@ Hello! I'm Zhongyu Zhou, a graduate student in Geographic Information Science at
 
 ## Research & Projects
 - **Simulating Airport Emergency Evacuation in Response to a Gunman Threat**:
-  - Developed an Agent-Based Model (ABM) to simulate emergency evacuation scenarios at an airport. The model incorporates GIS data to manage the spatial elements of the airport environment, focusing on optimizing evacuation routes and improving safety protocols during high-risk situations. Currently under review for publication.
+  - Developed an Agent-Based Model (ABM) to simulate emergency evacuation scenarios at an airport. The model incorporates GIS data to manage the spatial elements of the airport environment, focusing on optimizing evacuation routes and improving safety protocols during high-risk situations.
 
 - **Development of a Mobile Surveying Platform Application Using KQGIS**:
   - Engineered an Android-based application using KQGIS to enhance field surveying and mapping capabilities. This project involved programming map visualization, mobile positioning, and layer editing features to improve data collection accuracy and efficiency.
