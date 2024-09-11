@@ -12,27 +12,27 @@
             padding: 0;
         }
         header {
-            background-color: #333;
-            color: #fff;
-            padding: 20px 0;
-            text-align: center;
-        }
-        nav {
-            text-align: center;
-            margin-top: 20px;
-        }
-        nav a {
-            margin: 0 15px;
-            text-decoration: none;
-            color: #333;
-            font-weight: bold;
+            background-image: url('ub_campus.png');
+            background-size: cover;
+            background-position: center;
+            height: 300px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 100vw;
+            margin: 0;
         }
         .container {
             max-width: 1000px;
             margin: 20px auto;
             padding: 20px;
             background-color: #fff;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 15px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transition: transform 0.2s;
+        }
+        .container:hover {
+            transform: translateY(-10px);
         }
         h1, h2 {
             color: #333;
@@ -40,10 +40,35 @@
         p {
             line-height: 1.6;
         }
+        nav {
+            text-align: center;
+            margin: 20px 0;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #333;
+            font-weight: bold;
+            padding: 10px 15px;
+            background-color: #0073e6;
+            border-radius: 25px;
+            color: white;
+            transition: background-color 0.3s;
+        }
+        nav a:hover {
+            background-color: #005bb5;
+        }
+        .about, .research, .projects {
+            background-color: #e0f7fa;
+            border-radius: 15px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
         footer {
             text-align: center;
             padding: 20px;
-            background-color: #333;
+            background-color: #0073e6;
             color: #fff;
             margin-top: 20px;
         }
@@ -51,7 +76,7 @@
 </head>
 <body>
 
-<header style="background-image: url('ub_campus.png'); background-size: cover; background-position: center; height: 300px; display: flex; align-items: center; justify-content: center; width: 100vw; margin: 0;">
+<header>
     <div style="background-color: rgba(0, 0, 0, 0.5); padding: 20px; text-align: center;">
         <h1 style="color: white; font-weight: bold; font-size: 36px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);">
             Welcome to Zhongyu Zhou's World of GIS
@@ -69,19 +94,19 @@
     <a href="#contact">Contact</a>
 </nav>
 
-<div class="container" id="about">
+<div class="container about" id="about">
     <h2>About Me</h2>
     <p>
         I am a graduate student at the University at Buffalo (SUNY), pursuing a Master's degree in Geographic Information Science. 
         My research focuses on spatial data analysis, geospatial network analysis, and modeling of complex social and environmental data.
     </p>
     <p>
-        With a strong foundation in GIS, remote sensing, and data science, I am seeking PhD opportunities to further explore the 
+        With a strong foundation in GIS, remote sensing, and data science, I am seeking opportunities to further explore the 
         intersection of technology and spatial analysis to solve real-world problems.
     </p>
 </div>
 
-<div class="container" id="research">
+<div class="container research" id="research">
     <h2>Research Interests</h2>
     <ul>
         <li>GIS and Spatial Data Analysis</li>
@@ -92,7 +117,7 @@
     </ul>
 </div>
 
-<div class="container" id="projects">
+<div class="container projects" id="projects">
     <h2>Selected Projects</h2>
     <h3>Simulating Evacuation and Engagement in Airport Security Scenarios (2024)</h3>
     <p>Developed an Agent-Based Model to simulate crowd evacuation and emergency responses in an airport security scenario.</p>
@@ -102,12 +127,6 @@
 
     <h3>Selection of Prime Fishing Spots for Smallmouth Bass in Lake Erie (2024)</h3>
     <p>Applied logistic regression and spatial analysis to identify ideal fishing locations, achieving 93% prediction accuracy for habitat suitability.</p>
-</div>
-
-<div class="container" id="contact">
-    <h2>Contact Me</h2>
-    <p>Email: <a href="mailto:zzhou47@buffalo.edu">zzhou47@buffalo.edu</a></p>
-    <p>LinkedIn: <a href="#">LinkedIn Profile</a></p>
 </div>
 
 <footer>
