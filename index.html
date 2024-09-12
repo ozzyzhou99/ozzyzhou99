@@ -4,10 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Zhongyu Zhou's Personal Website</title>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Roboto&display=swap" rel="stylesheet">
     <style>
         body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
+            font-family: 'Roboto', sans-serif;
+            background-color: #fffaf0;
             margin: 0;
             padding: 0;
         }
@@ -22,11 +24,23 @@
             width: 100vw;
             margin: 0;
         }
+        h1, h2 {
+            font-family: 'Playfair Display', serif;
+            color: #333;
+        }
+        h1 {
+            font-size: 48px;
+            color: #ff8c00;
+        }
+        h2 {
+            font-size: 32px;
+            color: #ff7043;
+        }
         .container {
             max-width: 1000px;
             margin: 20px auto;
             padding: 20px;
-            background-color: #fff;
+            background-color: #ffe5b4;
             border-radius: 15px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             transition: transform 0.2s;
@@ -34,11 +48,12 @@
         .container:hover {
             transform: translateY(-10px);
         }
-        h1, h2 {
-            color: #333;
-        }
         p {
             line-height: 1.6;
+            color: #333;
+        }
+        ul {
+            color: #333;
         }
         nav {
             text-align: center;
@@ -47,19 +62,18 @@
         nav a {
             margin: 0 15px;
             text-decoration: none;
-            color: #333;
+            color: #fff;
             font-weight: bold;
             padding: 10px 15px;
-            background-color: #0073e6;
+            background-color: #ff7043;
             border-radius: 25px;
-            color: white;
             transition: background-color 0.3s;
         }
         nav a:hover {
-            background-color: #005bb5;
+            background-color: #ff8c00;
         }
-        .about, .research, .projects {
-            background-color: #e0f7fa;
+        .about, .research, .projects, .courses {
+            background-color: #ffdab9;
             border-radius: 15px;
             padding: 20px;
             margin-bottom: 20px;
@@ -68,7 +82,7 @@
         footer {
             text-align: center;
             padding: 20px;
-            background-color: #0073e6;
+            background-color: #ff7043;
             color: #fff;
             margin-top: 20px;
         }
@@ -78,11 +92,9 @@
 
 <header>
     <div style="background-color: rgba(0, 0, 0, 0.5); padding: 20px; text-align: center;">
-        <h1 style="color: white; font-weight: bold; font-size: 36px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);">
-            Welcome to Zhongyu Zhou's World of GIS
-        </h1>
-        <p style="color: white; font-weight: bold; font-size: 20px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);">
-            Passionate about exploring and solving real-world challenges through Geographic Information Science!
+        <h1>Welcome to Zhongyu Zhou's World of GIS</h1>
+        <p style="color: white; font-weight: bold; font-size: 20px;">
+            Exploring real-world challenges through Geographic Information Science.
         </p>
     </div>
 </header>
@@ -91,6 +103,7 @@
     <a href="#about">About Me</a>
     <a href="#research">Research Interests</a>
     <a href="#projects">Projects</a>
+    <a href="#courses">Courses</a>
     <a href="#contact">Contact</a>
 </nav>
 
@@ -127,6 +140,18 @@
 
     <h3>Selection of Prime Fishing Spots for Smallmouth Bass in Lake Erie (2024)</h3>
     <p>Applied logistic regression and spatial analysis to identify ideal fishing locations, achieving 93% prediction accuracy for habitat suitability.</p>
+</div>
+
+<div class="container courses" id="courses">
+    <h2>Selected Courses</h2>
+    <ul>
+        <li>Agent-Based Modeling and GIS</li>
+        <li>GIS and Machine Learning</li>
+        <li>Dynamic Modeling</li>
+        <li>Geospatial Information Systems</li>
+        <li>Remote Sensing</li>
+        <li>Geographic Seminar</li>
+    </ul>
 </div>
 
 <footer>
