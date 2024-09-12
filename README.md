@@ -6,12 +6,11 @@ I am a Geographic Information Science (GIS) master's student at the University a
 ## 🎓 Education
 - **Master of Arts in Geographic Information Science** - University at Buffalo, SUNY (Expected 2025)
   - Engaged in cutting-edge research and application development in GIS, with a focus on harnessing data science tools for environmental and social challenges.
-  - **GPA**: 3.73/5.0
+  - **GPA**: 3.73/4.0
   - **Relevant Coursework**: Dynamic Modeling, Agent-based modeling and GIS, GIS for Environmental Modeling, GIS and Machine Learning.
   
 - **Bachelor of Science in Geographic Information Science** - China University of Petroleum (Graduated 2021)
   - Cultivated expertise in spatial data manipulation and analysis, preparing me for advanced studies and research.
-  - **GPA**: 3.3/5.0
   - **Relevant Coursework**: Spatial Databases, Digital Topographic Surveying, GIS Spatial Analysis.
 
 ## 🔍 Research Interests
