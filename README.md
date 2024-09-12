@@ -16,11 +16,11 @@ I am a Geographic Information Science (GIS) master's student at the University a
 ## 🔍 Research Interests
 - **GIS Spatial Data Analysis**: Specializing in geospatial network analysis, focusing on spatial accessibility and resolving disparities through innovative GIS applications.
 - **Data Science in GIS**: Utilizing Agent-Based Modeling (ABM) and other simulation techniques to address complex social and environmental issues, enhancing predictive capabilities and decision-making processes.
-- **Transportation Systems**: Investigating the integration of GIS and ABM to improve transportation accessibility and efficiency, particularly for marginalized communities.
+- **Transportation Systems**: Investigating the integration of GIS to improve transportation accessibility and efficiency, particularly for marginalized communities.
 
 ## 🚀 Research & Projects
 - **Simulating Airport Emergency Evacuation in Response to a Gunman Threat**:
-  - Developed an Agent-Based Model (ABM) to simulate emergency evacuation scenarios at airports. This project emphasizes optimizing evacuation strategies and improving safety protocols during high-risk situations. The study is currently under review for publication.
+  - Developed an Agent-Based Model (ABM) to simulate emergency evacuation scenarios at airports. With three diffenrent kinds of peoples as agents: passangers, security team and shooters. With a cost surface and inspired by the Thomas et.al concept of active shooter. This project emphasizes optimizing evacuation strategies and improving safety protocols during high-risk situations.
   
 - **Development of a Mobile Surveying Platform Application Using KQGIS**:
   - Engineered an Android-based application to enhance field surveying and mapping capabilities, significantly improving data collection accuracy and operational efficiency.
