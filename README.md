@@ -19,6 +19,9 @@ I am a Geographic Information Science (GIS) master's student at the University a
 - **Transportation Systems**: Investigating the integration of GIS to improve transportation accessibility and efficiency, particularly for marginalized communities.
 
 ## 🚀 Research & Projects
+- **Developing an Indoor Navigation Model for Campus Accessibility Analysis**：
+  - Optimized the best routes for students navigating between classrooms through spatial analysis, integrating both indoor and outdoor networks to improve classroom assignments and navigation efficiency, minimizing the likelihood of tardiness between consecutive classes.
+  
 - **Simulating Airport Emergency Evacuation in Response to active shooters**:
   - Developed an Agent-Based Model (ABM) to simulate emergency evacuation scenarios at airports. With three diffenrent kinds of peoples as agents: passangers, security team and shooters. With a cost surface and inspired by the Thomas et.al concept of active shooter. This project emphasizes optimizing evacuation strategies and improving safety protocols during high-risk situations.
   
@@ -32,7 +35,7 @@ I am a Geographic Information Science (GIS) master's student at the University a
   - Applied logistic regression and spatial data analysis to identify and predict optimal habitats for smallmouth bass, aiding in conservation efforts and resource management.
 
 ## 💻 Technical Skills
-- **GIS Tools**: Proficient in ArcGIS
+- **GIS Tools**: Proficient in ArcGIS Pro
 - **Programming**: Proficient in Python, R; previously focused on Java, C#
 - **Software Development**: Experienced with Android Studio, ENVI, and Erdas for remote sensing applications.
 
