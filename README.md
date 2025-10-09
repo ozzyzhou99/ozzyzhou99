@@ -1,7 +1,9 @@
 # Hello, World! 👋 I'm Zhongyu Zhou
 
 ## 🌟 About Me
-I am a Geographic Information Science (GIS) master's student at the University at Buffalo, exploring advanced spatial data analysis techniques and their applications. My academic journey in GIS began at the China University of Petroleum, where I developed a solid foundation in the field.
+I am a Ph.D. student in Geography at The Ohio State University, advised by Professor Harvey Miller. My research interests include Geographic Information Science (GIS), Agent-Based Modeling (ABM), and time geography, with a focus on urban mobility, accessibility, and spatial simulation.
+
+I am always open to collaborations and conversations about simulation, urban analytics, and spatial computing.
 
 ## 🎓 Education
 - **Master of Arts in Geographic Information Science** - University at Buffalo, SUNY (Expected 2025)
