@@ -6,7 +6,11 @@ I am a Ph.D. student in Geography at The Ohio State University, advised by Profe
 I am always open to collaborations and conversations about simulation, urban analytics, and spatial computing.
 
 ## 🎓 Education
-- **Master of Arts in Geographic Information Science** - University at Buffalo, SUNY (Expected 2025)
+- **Doctor of Philosophy in Geography (Ph.D.)** – The Ohio State University (Expected 2030)  
+  - Advisor: Prof. Harvey Miller (Center for Urban and Regional Analysis, CURA)  
+  - Research interests: Agent-based modeling, time geography, and urban mobility simulation.
+
+- **Master of Arts in Geographic Information Science** - University at Buffalo, SUNY (Graduated 2025)
   - Engaged in cutting-edge research and application development in GIS, with a focus on harnessing data science tools for environmental and social challenges.
   - **GPA**: 3.75/4.0
   - **Relevant Coursework**: Dynamic Modeling, Agent-based modeling and GIS, GIS for Environmental Modeling, GIS and Machine Learning.
@@ -42,7 +46,7 @@ I am always open to collaborations and conversations about simulation, urban ana
 - **Software Development**: Experienced with Android Studio, ENVI, and Erdas for remote sensing applications.
 
 ## 📫 How to Reach Me
-- **Email**: [zzhou47@buffalo.edu](mailto:zzhou47@buffalo.edu)
+- **Email**: [zhou.5129@buckeyemail.osu.edu](mailto:zhou.5129@buckeyemail.osu.edu)
 
 ---
 
