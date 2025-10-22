@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 I am a Ph.D. student in Geography at The Ohio State University, advised by Professor Harvey Miller. My research interests include Geographic Information Science (GIS), Agent-Based Modeling (ABM), and time geography, with a focus on urban mobility, accessibility, and spatial simulation.
-
+[I'm here](https://geography.osu.edu/people/zhou.5129)
 I am always open to collaborations and conversations about simulation, urban analytics, and spatial computing.
 
 ## 🎓 Education
