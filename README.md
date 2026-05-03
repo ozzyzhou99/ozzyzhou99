@@ -1,53 +1,37 @@
-# Hello, World! 👋 I'm Zhongyu Zhou
+# Zhongyu Zhou
 
-## 🌟 About Me
-I am a Ph.D. student in Geography at The Ohio State University, advised by Professor Harvey Miller. My research interests include Geographic Information Science (GIS), Agent-Based Modeling (ABM), and time geography, with a focus on urban mobility, accessibility, and spatial simulation.
-[I'm here](https://geography.osu.edu/people/zhou.5129)<br>
-I am always open to collaborations and conversations about simulation, urban analytics, and spatial computing.
+PhD Student in Geography · The Ohio State University
 
-## 🎓 Education
-- **Doctor of Philosophy in Geography (Ph.D.)** – The Ohio State University (Expected 2030)  
-  - Advisor: Prof. Harvey Miller (Center for Urban and Regional Analysis, CURA)  
-  - Research interests: Agent-based modeling, time geography, and urban mobility simulation.
-
-- **Master of Arts in Geographic Information Science** - University at Buffalo, SUNY (Graduated 2025)
-  - Engaged in cutting-edge research and application development in GIS, with a focus on harnessing data science tools for environmental and social challenges.
-  - **GPA**: 3.75/4.0
-  - **Relevant Coursework**: Dynamic Modeling, Agent-based modeling and GIS, GIS for Environmental Modeling, GIS and Machine Learning.
-  
-- **Bachelor of Science in Geographic Information Science** - China University of Petroleum (Graduated 2021)
-  - Cultivated expertise in spatial data manipulation and analysis, preparing me for advanced studies and research.
-  - **Relevant Coursework**: Spatial Databases, Digital Topographic Surveying, GIS Spatial Analysis.
-
-## 🔍 Research Interests
-- **GIS Spatial Data Analysis**: Specializing in geospatial network analysis, focusing on spatial accessibility and resolving disparities through innovative GIS applications.
-- **Data Science in GIS**: Utilizing Agent-Based Modeling (ABM) and other simulation techniques to address complex social and environmental issues, enhancing predictive capabilities and decision-making processes.
-- **Transportation Systems**: Investigating the integration of GIS to improve transportation accessibility and efficiency, particularly for marginalized communities.
-
-## 🚀 Research & Projects
-- **Developing an Indoor Navigation Model for Campus Accessibility Analysis**：
-  - Optimized the best routes for students navigating between classrooms through spatial analysis, integrating both indoor and outdoor networks to improve classroom assignments and navigation efficiency, minimizing the likelihood of tardiness between consecutive classes.
-  
-- **Simulating Airport Emergency Evacuation in Response to active shooters**:
-  - Developed an Agent-Based Model (ABM) to simulate emergency evacuation scenarios at airports. With three diffenrent kinds of peoples as agents: passangers, security team and shooters. With a cost surface and inspired by the Thomas et.al concept of active shooter. This project emphasizes optimizing evacuation strategies and improving safety protocols during high-risk situations.
-  
-- **Development of a Mobile Surveying Platform Application Using KQGIS**:
-  - Engineered an Android-based application to enhance field surveying and mapping capabilities, significantly improving data collection accuracy and operational efficiency.
-
-- **Analysis of Transportation Accessibility for Disabled Persons on UB North Campus**:
-  - Conducted a comprehensive GIS and network analysis to evaluate and enhance the accessibility of campus transportation services for disabled individuals.
-
-- **Selection of Prime Fishing Spots for Smallmouth Bass in Lake Erie**:
-  - Applied logistic regression and spatial data analysis to identify and predict optimal habitats for smallmouth bass, aiding in conservation efforts and resource management.
-
-## 💻 Technical Skills
-- **GIS Tools**: Proficient in ArcGIS Pro
-- **Programming**: Proficient in Python, R; previously focused on Java, C#
-- **Software Development**: Experienced with Android Studio, ENVI, and Erdas for remote sensing applications.
-
-## 📫 How to Reach Me
-- **Email**: [zhou.5129@buckeyemail.osu.edu](mailto:zhou.5129@buckeyemail.osu.edu)
+🌐 [ozzyzhou99.github.io](https://ozzyzhou99.github.io) · 📧 zhou.5129@osu.edu · [OSU Profile](https://geography.osu.edu/people/zhou.5129)
 
 ---
 
-Thank you for visiting my GitHub profile. If you're interested in collaborating on GIS projects or discussing research opportunities, I would be delighted to connect!
+I study how people move, where they live, and how cities work — using GIS, agent-based modeling, and spatial data science.
+
+Currently a Graduate Research Assistant at the [Center for Urban and Regional Analysis (CURA)](https://cura.osu.edu/), working on eviction data and housing instability in Columbus, OH.
+
+## Research Interests
+
+- Spatial accessibility & urban mobility
+- Agent-based modeling & geospatial simulation
+- Housing instability & eviction
+- Emergency response & evacuation behavior
+
+## Education
+
+- **PhD in Geography** — The Ohio State University (2025–)
+- **MA in Geographic Information Science** — University at Buffalo, SUNY (2023–2025)
+- **BS in Geographic Information Science** — China University of Petroleum (2017–2021)
+
+## Selected Projects
+
+- [**LA Wildfire Evacuation Model**](https://github.com/ozzyzhou99/LA-Wildfire-Model) — NetLogo ABM simulating emotion-driven evacuation behavior using fuzzy cognitive maps
+- [**Airport Security Evacuation Simulation**](https://github.com/ozzyzhou99/Simulating-Evacuation-and-Engagement-in-Airport-Security-Scenarios) — GIS-integrated agent-based model of crowd dynamics and security response
+
+## Technical Skills
+
+Python · R · NetLogo · ArcGIS Pro · Java · ENVI · Erdas
+
+---
+
+Open to conversations about spatial simulation, urban analytics, and GIS.
