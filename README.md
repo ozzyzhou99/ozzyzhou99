@@ -20,7 +20,7 @@ Currently a Graduate Research Assistant at the [Center for Urban and Regional An
 ## Education
 
 - **PhD in Geography** — The Ohio State University (2025–)
-- **MA in Geographic Information Science** — University at Buffalo, SUNY (2023–2025)
+- **MA in Geographic Information Science** — University at Buffalo, SUNY (2023–2025, GPA: 3.76/4.00)
 - **BS in Geographic Information Science** — China University of Petroleum (2017–2021)
 
 ## Selected Projects
